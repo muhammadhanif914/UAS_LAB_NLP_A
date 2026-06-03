@@ -1,0 +1,412 @@
+audio_input,text,languages_detected,is_code_switching
+2222_audio1.wav,Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?,['id'],False
+2222_audio10.wav,Apa perbedaan umroh dan hajj secara detail dalam Islam?,['id'],False
+2222_audio12.wav,Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?,['id'],False
+2222_audio14.wav,How to prepare dokumen umrah dari Indonesia dengan benar,['id'],False
+2222_audio2.wav,Aku butuh travel umrah simple tapi include madinah visit.,['id'],False
+2222_audio3.wav,Can you help aku arrange transport dari Judea ke Madinah tomorrow?,"['id', 'en']",True
+2222_audio4.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2222_audio5.wav,Ya akhi uridu bukfaik ilajadah al-rasbu'al qadim hal bisa bantu ajidah aftal skedul warih latan mubasyirah,['id'],False
+2222_audio6.wav,uridu arrange transport menjedah ila madinah wadan,[],False
+2222_audio7.wav,Book flight ke Jeddah lalu lanjut ke Madinah. Schedule terbaik kapan?,['id'],False
+2301_audio1.wav,"Aku mau book fly ke Jeddah minggu depan, bisa bantu schedule?",['id'],False
+2301_audio11.wav,Kenapa fasting di Ramadan itu wajib bagi muslim?,['id'],False
+2301_audio12.wav,Bagaimana proses visa Saudi untuk umroh dari Indonesia sekarang?,['id'],False
+2301_audio14.wav,How to prepare dokumen umroh dari Indonesia dengan benar,['id'],False
+2301_audio15.wav,Tolong buat checklist persiapan umroh termasuk barang wajib dibawa.,[],False
+2301_audio2.wav,"Aku butuh travel umrah simple, tapi include Madinah visit.",['id'],False
+2301_audio3.wav,Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2301_audio4.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2301_audio5.wav,"Ya akhi, uri du buk flight ila jidah al-usbu al-qadim. Hal bisa bantu ajidah afdal skajul warih latan mubashiroh?",['id'],False
+2301_audio6.wav,Uridu Range Transport menjedah ila Madinah Kogadan,[],False
+2302_audio01.wav,"Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule.",['id'],False
+2302_audio02.wav,"Aku butuh travel umroh simpel, tapi include Madinah visit.",['id'],False
+2302_audio03.wav,Can you help? Aku arrange transport dari Jeddah ke Madinah tomorrow.,"['id', 'en']",True
+2302_audio04.wav,Expand step by step cara apply visa Saudi dengan benar.,['id'],False
+2302_audio05.wav,"Ya akhi, uridubu flight ilajidah al-usbu al-khadim hal bithabantu ajidah afdal skedul warih latan mubassiroh.",[],False
+2302_audio06.wav,Uridu Range Transport Minjida ila Madinah Khadat.,[],False
+2302_audio11.wav,Kenapa fasting di Ramadhan itu wajib bagi muslim?,['id'],False
+2302_audio14.wav,How to prepare dokumen umroh dari Indonesia dengan benar?,['id'],False
+2302_audio15.wav,Tolong buat ceklis persiapan umroh termasuk barang wajib di bawah.,['id'],False
+2302_audio17.wav,"Menurut kamu, belajar bahasa Arab itu susah nggak untuk pemula?",['id'],False
+2303_audio01.wav,Aku mau book flight ke Jeddah minggu depan bisa bantu schedule,['id'],False
+2303_audio02.wav,aku butuh travel umrah simple tapi include madinah visit,['id'],False
+2303_audio03.wav,can you help me arrange transport dari jeddah ke madinah tomorrow,"['id', 'en']",True
+2303_audio04.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2303_audio06.wav,uridu orange transport min jeddah ilah madinah hadan,[],False
+2303_audio07.wav,buk flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan,['id'],False
+2303_audio13.wav,Jelaskan step by step cara booking flight ke Jeddah secara online.,['id'],False
+2303_audio15.wav,Tolong buat checklist persiapan umrah termasuk barang wajib dibawah,[],False
+2303_audio19.wav,"Ahyanan, saya bingung mulai dari mana untuk umrah.",['id'],False
+2304_audio01.wav,Aku mau book flight ke jedah minggu depan. Bisa bantu schedule?,['id'],False
+2304_audio02.wav,"Aku butuh travel umroh simple, tapi include Madinah visit.",['id'],False
+2304_audio03.wav,Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2304_audio04.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2304_audio05.wav,"Ya akhi, uri dubuk fly ila jiddah al-usbu al-qadim, hal bisa bantu ajidah afdal schedule warih latanmu bashiroh.",['id'],False
+2304_audio06.wav,Uridu arranged transport min cerdah ila Madinah Khoden.,[],False
+2304_audio07.wav,Book flight ke Jeddah lanjut ke Madinah. Schedule terbaik kapan?,['id'],False
+2304_audio11.wav,Kenapa fasting di Ramadan itu wajib bagi muslim?,['id'],False
+2304_audio15.wav,"Tolong buat checklist persiapan umroh, termasuk barang wajib di bawah.",['id'],False
+2304_audio18.wav,I feel overwhelmed dengan persiapan umroh. Ada tips sederhana?,['id'],False
+2306_Audio01.wav,Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?,['id'],False
+2306_Audio02.wav,Aku butuh travel umur simple tapi include Madinah visit.,['id'],False
+2306_Audio03.wav,Can you help? Aku alrits transport dari Jabodah ke Madinah tomorrow.,"['id', 'en']",True
+2306_Audio04.wav,Explore step by step cara apply visa Saudi dengan benar,['id'],False
+2306_Audio05.wav,"Ya akhi, uridu, buku laik ila jidda, al-usbu, al-qadim, hal bisibantu ajidda afdal skicul wari latat mubasyurah.",[],False
+2306_Audio06.wav,Uridu Restoransport menciptah ila Madinah Gaden,[],False
+2306_Audio11.wav,Kenapa fasting di Ramadan itu wajib bagi muslim?,['id'],False
+2306_Audio12.wav,Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?,['id'],False
+2306_Audio13.wav,Jelaskan step by step cara booking flight ke jadah secara online.,['id'],False
+2306_Audio14.wav,How to prepare dokumen umroh dari Indonesia dengan benar,['id'],False
+2306_Audio15.wav,Tolong buat checklist persiapan umrah termasuk barang wajib dibawa.,[],False
+2307_audio01.wav,Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?,['id'],False
+2307_audio02.wav,"Aku butuh travel omrah, simple, tapi include Madinah visit.",['id'],False
+2307_audio03.wav,can you help aku arrange transport dari jeddah ke madinah tomorrow,"['id', 'en']",True
+2307_audio04.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2307_audio05.wav,"Ya aki, uridu buk flight ila jaddah al-usbu al-qadim. Hal bisa bantu, ajid afdal, skejul warih watan, mubasyir watan.",['id'],False
+2307_audio06.wav,Uridu arrange transport min jerdah ila Madinah Khadan.,[],False
+2307_audio07.wav,"Book flight ke Jeddah, lalu lanjut ke Madinah. Schedule terbaik, kapan?",['id'],False
+2307_audio10.wav,Apa perbedaan umrah dan haji secara detail dalam Islam?,['id'],False
+2307_audio15.wav,Tolong buat checklist persiapan umroh termasuk barang wajib di bawah.,['id'],False
+2307_audio17.wav,Menurut kamu belajar bahasa Arab itu susah nggak untuk pemula?,['id'],False
+2308_audio01.wav,Aku mau book flight ke jedah minggu depan. Bisa bantu schedule?,['id'],False
+2308_audio02.wav,Aku butuh travel umroh simple tapi include Madinah visit.,['id'],False
+2308_audio03.wav,Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2308_audio04.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2308_audio05.wav,"Ya Akhi, uridu bukflaik ila jedah al-usbu' al-qadim, hal bisa bantu ajidah afdol skejul warih latan mubashiroh?",['id'],False
+2308_audio06.wav,Uridu arranged transport min jeddah ila Madinah Wadan.,[],False
+2308_audio12.wav,Bagaimana proses visa Saudi untuk umroh dari Indonesia sekarang?,['id'],False
+2308_audio13.wav,Jelaskan step by step cara booking flight ke Jeddah secara online.,['id'],False
+2308_audio15.wav,Tolong buat checklist persiapan umroh termasuk barang wajib di bawah.,['id'],False
+2308_audio17.wav,"Menurut kamu, belajar bahasa Arab itu susah nggak untuk pemula?",['id'],False
+2309_audio01.wav,Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule.,['id'],False
+2309_audio02.wav,Aku butuh travel umrah simple tapi include Madinah visit.,['id'],False
+2309_audio03.wav,Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2309_audio04.wav,Explain step by step cara apply visa Saudi dengan benar,['id'],False
+2309_audio05.wav,"Ya ahi, uridu bukflake ila jadda al-usbu'al qadim. Hal bisa bantu ajidda afdal skajul wa rihletan mubasharah?",['id'],False
+2309_audio06.wav,Uridu arranged transport min ceddah ila Madinah hodan,[],False
+2309_audio08.wav,uridu schedule trip dari jeddah ke Mekah besok pagi,['id'],False
+2309_audio12.wav,Bagaimana proses visa Saudi untuk umroh dari Indonesia sekarang?,['id'],False
+2309_audio15.wav,Tolong buat checklist persiapan umroh termasuk barang wajib dibawa.,[],False
+2309_audio17.wav,Menurut kamu belajar bahasa Arab itu susah gak untuk pemula,['id'],False
+2310_Audio01.wav,Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?,['id'],False
+2310_Audio02.wav,"Aku butuh travel umrah simple, tapi include Madinah visit.",['id'],False
+2310_Audio03.wav,Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2310_Audio04.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2310_Audio05.wav,"Ya akhi, uridu bukflag ila jedah al-usbu'al qadim hal bisa bantu ajidah afdal skejul warih latan mubashiroh?",['id'],False
+2310_Audio06.wav,Puridu Arrange Transport menjedah ila Madinah Wadan.,[],False
+2310_Audio07.wav,Book flight ke Jeddah lalu lanjut ke Madinah. Schedule terbaik kapan?,['id'],False
+2310_Audio11.wav,Kenapa fasting di Ramadan itu wajib bagi muslim?,['id'],False
+2310_Audio14.wav,How to prepare dokumen umroh dari Indonesia dengan benar,['id'],False
+2310_Audio20.wav,Saya ingin pergi ke Mecca minggu depan.,['id'],False
+2311_audio01.wav,Aku mau book flight ke jodoh minggu depan. Bisa bantu schedule?,['id'],False
+2311_audio02.wav,"Aku butuh travel umroh simple, tapi include Madinah visit.",['id'],False
+2311_audio03.wav,Can you help aku arrange transport dari Jeddah ke Madinah Temuruh?,"['id', 'en']",True
+2311_audio04.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2311_audio05.wav,ya akhi uridu bufla ilajatlah al usbu'al qadim hal bisa bantu adidah afdal skajul warih latanmu basyirah,['id'],False
+2311_audio06.wav,RURI DUERRANGE TRANSPORT MINJEDDA ILA MADINAH GHADAN,[],False
+2311_audio09.wav,Mungkin buk transport min makkah ilah madina untuk besok.,['id'],False
+2311_audio12.wav,Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?,['id'],False
+2311_audio14.wav,How to prepare dokumen umroh dari Indonesia dengan benar?,['id'],False
+2311_audio17.wav,Menurut kamu belajar bahasa Arab itu susah nggak untuk pemula?,['id'],False
+2312_audio1.wav,Aku mau book flight ke Jeddah minggu depan bisa bantu schedule,['id'],False
+2312_audio11.wav,Kenapa fasting di Ramadan itu wajib bagi muslim,['id'],False
+2312_audio15.wav,Tolong buat checklist persiapan umrah termasuk barang wajib di bawah.,['id'],False
+2312_audio19.wav,Ah yanan saya bingung mulai dari mana untuk umrah,['id'],False
+2312_audio2.wav,Aku butuh travel umrah simple tapi ikut Madinah visit.,['id'],False
+2312_audio20.wav,translate ke english aku mau pergi ke makkah minggu depan,['id'],False
+2312_audio3.wav,can you help aku arrange transport dari jeddah ke madinah to morrow,"['id', 'en']",True
+2312_audio4.wav,Explain step by step cara apply visa Saudi dengan benar,['id'],False
+2312_audio5.wav,ya akhi uri dubuk flaik ila jeddah al usbu'un lqadim hal bisa bantu aji da abdal skedul warih latan mubasyirah,['id'],False
+2312_audio6.wav,Uridu arrange transport min jeddah ila madinah qadan,[],False
+2312_audio7.wav,"Book flight ke Jeddah lalu lanjut ke Madinah, skedul terbaik kapan?",['id'],False
+2318_audio01.wav,Aku mau book fly ke Jeddah minggu depan bisa bantu schedule,['id'],False
+2318_audio02.wav,"Aku butuh travel Umrah simple, tapi include Madinah Pisid.",['id'],False
+2318_audio03.wav,"Can you help? Aku arrange transport dari Jeddah ke Madinah, Temuru.","['id', 'en']",True
+2318_audio04.wav,Explain step by step cara apply Pisa Saudi dengan benar.,['id'],False
+2318_audio05.wav,Ya ahi uridu buflaik ila jeddah al usbu al kalim hal bisa bantu ajidah afdal skedul warilfatan mubasirah,['id'],False
+2318_audio06.wav,uridu arrange transport min jeddah illa madinah gadan,[],False
+2318_audio09.wav,Mungkin book transport Min Makkah ila Madinah untuk besok.,['id'],False
+2318_audio10.wav,Apa perbedaan umrah dan haji secara detail dalam Islam?,['id'],False
+2318_audio13.wav,Jelaskan step by step cara booking flight ke Jeddah secara online,['id'],False
+2318_audio19.wav,Akhianan saya bingung mulai dari mana untuk umrah.,['id'],False
+2319_Audio1.wav,"Aku mau book fly ke jendah minggu depan, bisa bantu schedule?",['id'],False
+2319_Audio10.wav,Apa perbedaan umroh dan hajj sejarah detail dalam Islam?,['id'],False
+2319_Audio13.wav,Jelaskan step by step cara booking flight ke jeddah secara online.,['id'],False
+2319_Audio16.wav,Guide aku cara pilih hotel di Mekah dekat Haram dengan budget terbatas.,['id'],False
+2319_Audio19.wav,Ah yanan saya bingung mulai dari mana untuk umroh,['id'],False
+2319_Audio2.wav,Aku butuh travel umrah simple tapi include Madinah visit.,['id'],False
+2319_Audio3.wav,Can you help aku arrange transport dari Jeddah ke Bandidah tomorrow?,"['id', 'en']",True
+2319_Audio4.wav,Explain step by step cara apply visa Saudi dengan benar,['id'],False
+2319_Audio5.wav,"Ya akhi, uridu bukfla ila jadda al-usbu'a al-qadim. Hal bisa bantu adida afdha siadul warilata mubashirah?",['id'],False
+2319_Audio6.wav,Uri do arrange transport min jeddah ila Madinah Wadan,['en'],False
+2323_audio01.wav,"Aku mau book flight ke jadah minggu depan, bisa bantu schedule.",['id'],False
+2323_audio02.wav,"Aku butuh travel umrah, simple, tapi include Madinah Fisik.",['id'],False
+2323_audio03.wav,Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2323_audio04.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2323_audio05.wav,ya akhi uridu bookfly ila jaddah al usbu al qadhim hal bisa bantu ajida afdal skidul wa rehlatan mubashirah,['id'],False
+2323_audio06.wav,urido arranged transport min jeddah ila madinah khoden,[],False
+2323_audio13.wav,Jelaskan step by step cara booking flight ke Jeddah secara online.,['id'],False
+2323_audio14.wav,How to prepare dokumen umrah dari Indonesia dengan benar,['id'],False
+2323_audio15.wav,Tolong buat checklist persiapan umrah termasuk barang wajib dibawa.,[],False
+2323_audio16.wav,Guide aku cara pilih hotel di Makkah dekat haram dengan budget terbatas,['id'],False
+2323_audio18.wav,I feel overwhelmed dengan persiapan umrah Ada tips sederhana,['id'],False
+2325_audio1.wav,Aku mau book flight ke Jeddah minggu depan bisa bantu schedule,['id'],False
+2325_audio10.wav,I feel overwhelmed dengan persiapan umrah. Ada tips sederhana.,['id'],False
+2325_audio2.wav,"Aku butuh travel, umrah simple tapi include Madinah visit.",['id'],False
+2325_audio3.wav,Can you help? Aku arrange transport dari Jeddah ke Marina Tomorrow.,"['id', 'en']",True
+2325_audio4.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2325_audio5.wav,"Ya akhi, uridu buk flek ila jidda al-usbu'a al-qadim. Hal bisa bantu ajidda afdol skajul warikhletan mubashyrah?",['id'],False
+2325_audio6.wav,Uri du orange transport menjedah ila Madinah Qadan.,[],False
+2325_audio7.wav,buk fly ke jeddah lalu lanjut ke madinah schedule terbaik kapan,['id'],False
+2325_audio8.wav,Apa perbedaan umrah dan hajj secara detail dalam Islam?,['id'],False
+2325_audio9.wav,How to prepare dokumen umrah dari Indonesia dengan benar,['id'],False
+2326_audio01.wav,"Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule?",['id'],False
+2326_audio02.wav,aku butuh travel umrah simple tapi include madina visit,['id'],False
+2326_audio03.wav,can you help aku arrange transport dari jeddah ke madinah to morrow,"['id', 'en']",True
+2326_audio04.wav,Explain step by step cara apply visa Saudi dengan benar,['id'],False
+2326_audio05.wav,ya akhi uridu buk flaik ila jiddah al usbu al qadim hal bisa bantu ajidah afdal skidul warihlatan mubasyrah,['id'],False
+2326_audio06.wav,uridu ren stangspot min jeddah ila madinah ghodan,[],False
+2326_audio07.wav,"Book flight ke Jeddah lalu lanjut ke Madinah, schedule terbaik kapan?",['id'],False
+2326_audio11.wav,kenapa fasting di romadhan itu wajib bagi muslim,['id'],False
+2326_audio13.wav,Jelaskan step by step cara booking flight kecedah secara online.,[],False
+2326_audio17.wav,menurut kamu belajar bahasa arab itu susah gak untuk pemula,['id'],False
+2330_audio01.wav,Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?,['id'],False
+2330_audio02.wav,Aku butuh travel umrah simple tapi include Madinah visit.,['id'],False
+2330_audio03.wav,Can you help? Aku arrange transport dari Jeddah ke Madinah tomorrow.,"['id', 'en']",True
+2330_audio04.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2330_audio05.wav,"Ya ahih, uridu, bukflaik, illa jeddah, al-usbu, al-qadim Hal bisa bantu ajidah, afdal, skejul, warilatan, mubasyuroh",['id'],False
+2330_audio06.wav,Uridu arrange transport min Jeddah illa Madinah Gadan.,[],False
+2330_audio07.wav,Buk flag ke jedah lalu lanjut ke Madinah. Schedule terbaik kapan?,['id'],False
+2330_audio12.wav,Bagaimana proses visa Saudi untuk umroh dari Indonesia sekarang?,['id'],False
+2330_audio14.wav,How to prepare dokumen umroh dari Indonesia dengan benar,['id'],False
+2330_audio15.wav,Tolong buat checklist persiapan umroh termasuk barang wajib dibawa.,[],False
+2331_audio01.wav,"Aku mau book flight ke jedah minggu depan, bisa bantu schedule.",['id'],False
+2331_audio02.wav,"Aku butuh travel umrah simple, tapi include Madinah visit.",['id'],False
+2331_audio03.wav,Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2331_audio04.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2331_audio05.wav,"Ya ahi, uridu buk flight ilajadah al-usbu al-qadim. Hal bisa bantu ajidah afdal skajul warilatan mubashirah?",['id'],False
+2331_audio06.wav,Uridu Range Transport menjadah ila Madinah Gadan.,[],False
+2331_audio10.wav,Apa perbedaan umroh dan haji secara detail dalam Islam?,['id'],False
+2331_audio12.wav,Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?,['id'],False
+2331_audio15.wav,Tolong buat checklist persiapan umrah termasuk barang wajib dibawa.,[],False
+2334_audio01.wav,Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?,['id'],False
+2334_audio02.wav,"Aku butuh travel umroh, simple, tapi include Madinah visit.",['id'],False
+2334_audio03.wav,Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2334_audio04.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2334_audio05.wav,"Ya ahli, uridu buk flaik ila jeddah al-usbu al-qadim hal bisa bantu ajidah afbal skejul warih latan mubashroh?",['id'],False
+2334_audio06.wav,Uridu arrange transport min jeddah ila Madinah Ghodan,[],False
+2334_audio07.wav,"Book flight, gadget dah, lalu lanjut ke Madinah, schedule terbaik, kapan?",['id'],False
+2334_audio08.wav,Bagaimana proses visa Saudi untuk umroh dari Indonesia sekarang?,['id'],False
+2334_audio09.wav,How to prepare dokumen umroh dari Indonesia dengan benar,['id'],False
+2334_audio10.wav,"Menurut kamu, belajar bahasa Arab itu susah nggak untuk pemula?",['id'],False
+2337_audio01.wav,"Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule.",['id'],False
+2337_audio02.wav,Aku butuh travel umroh simple tapi include Madinah visit.,['id'],False
+2337_audio03.wav,Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2337_audio04.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2337_audio05.wav,"Ya Akhi, Uridul, Bukflaik, Ila Jeddah Al-Usbu Al-Qadim, Hal Bisa Bantu, Ajida Afdal, Schedule Warihlatan Mubashirah.",['id'],False
+2337_audio06.wav,Uridu Arrange Transport Min Jeddah Ila Madinah Wadan,[],False
+2337_audio07.wav,"Book flight ke Jeddah lalu lanjut ke Madinah, schedule terbaik kapan?",['id'],False
+2337_audio13.wav,Jelaskan step by step cara booking flight ke Jeddah secara online.,['id'],False
+2337_audio14.wav,How to prepare dokumen umroh dari Indonesia dengan benar,['id'],False
+2337_audio18.wav,I feel overwhelmed dengan persiapan umroh ada tips sederhana,['id'],False
+2341_audio01(1).wav,Aku mau buku flight ke jedah minggu depan. Bisa bantu schedule?,['id'],False
+2341_audio02(1).wav,"Aku butuh travel umrah simple, tapi ikut Madinah Fisip.",['id'],False
+2341_audio03(1).wav,Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2341_audio04(1).wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2341_audio05(1).wav,"Ya akhi, uridu book flight ila jadah al-usbu' al-qadim, hal bisa bantu ajada afdal skijul warih latan mubashirwah?",['id'],False
+2341_audio06(1).wav,Uridu Orange Transport menjedah ilama di Nahradan,['id'],False
+2341_audio07(1).wav,"Book flight ke Jodah lalu lanjut ke Madinah, schedule terbaik kapan?",['id'],False
+2341_audio08(1).wav,Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?,['id'],False
+2341_audio09(1).wav,How to prepare dokumen umrah dari Indonesia dengan benar?,['id'],False
+2341_audio10(1).wav,"Menurut kamu, belajar bahasa Arab itu susah gak untuk pemula?",['id'],False
+2342_audio01.wav,Aku mau book flight ke Jeddah minggu depan bisa bantu schedule.,['id'],False
+2342_audio02.wav,"Aku butuh travel umroh, simple, tapi include Madinah visit.",['id'],False
+2342_audio03.wav,Can you have a co-arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2342_audio04.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2342_audio05.wav,Ya akhi uridu wabukrai ila ajadda al-usbu'al qadim hal bisa bantu ajidah afdol skedul wa rihlatan mubashirah.,['id'],False
+2342_audio06.wav,Uridu range transport min Jadda ila Madinah Khoden.,[],False
+2342_audio10.wav,Apa perbedaan umroh dan hajj secara detail dalam Islam?,['id'],False
+2342_audio11.wav,Kenapa fasting di Ramadan itu wajib bagi muslim?,['id'],False
+2342_audio14.wav,How to prepare dokumen umroh dari Indonesia dengan benar,['id'],False
+2342_audio19.wav,Ah yanan saya bingung mulai dari mana untuk umroh,['id'],False
+2343_audio1.wav,"Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule?",['id'],False
+2343_audio12.wav,Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?,['id'],False
+2343_audio14.wav,How to prepare dokumen umrah dari Indonesia dengan benar?,['id'],False
+2343_audio16.wav,guide aku cara pilih hotel di mekkah dekat haram dengan budget terbatas,['id'],False
+2343_audio18.wav,I will overhand dengan persiapan umroh. Ada tips sederhana.,"['id', 'en']",True
+2343_audio2.wav,Aku butuh travel umrah simple tapi include Madinah visit.,['id'],False
+2343_audio3.wav,Can you help aku arrange transport dari Jeddah ke Bandinah to-morrow?,"['id', 'en']",True
+2343_audio4.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2343_audio5.wav,"Ya akhi, uri dubuk flag ila jeddah usbuk al-qadim hal bisa bantu ajidah afdal skedul warih latan musibaroh.",['id'],False
+2343_audio6.wav,uridu raid transport minjedah ilah madinah godon,[],False
+2344_audio1.m4a.wav,Aku mau book flight ke jedah minggu depan. Bisa bantu schedule?,['id'],False
+2344_audio10.m4a.wav,Apa perbedaan umroh dan haji secara detail dalam Islam?,['id'],False
+2344_audio13.wav,Jelaskan step by step cara booking flight kejedah secara online.,[],False
+2344_audio17.wav,"Menurut kamu, belajar bahasa Arab itu susah gak untuk pemula?",['id'],False
+2344_audio2.m4a.wav,"Aku butuh travel umroh simple, tapi ikut Madinah visit.",['id'],False
+2344_audio20.m4a.wav,Translate ke English. Aku mau pergi ke Mekah minggu depan.,['id'],False
+2344_audio3.m4a.wav,Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2344_audio4.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2344_audio5.m4a.wav,"Ya akhi, uridu buk flaik ila jedah al-usbu'al qadim, hal bisa bantu ajidah afdal skedul warih latan mubashirah?",['id'],False
+2344_audio6.m4a.wav,Uri do arrange transport min jeddah ila Madinah Gadan,['en'],False
+2345_audio01.wav,"Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule?",['id'],False
+2345_audio02.wav,Aku butuh travel umrah simple tapi input Madinah visit.,['id'],False
+2345_audio03.wav,Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2345_audio04.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2345_audio06.wav,Uri du arrange transport min Jegdah ila Madinah Godan.,[],False
+2345_audio07.wav,"Book flight ke Jeddah lalu lanjut ke Madinah, schedule terbaik kapan?",['id'],False
+2345_audio08.wav,Apa perbedaan umroh dan haji secara detail dalam Islam?,['id'],False
+2345_audio09.wav,Kenapa festing di Ramadan itu wajib bagi muslim?,['id'],False
+2345_audio10.wav,Bagaimana proses visa Saudi untuk umroh dari Indonesia sekarang?,['id'],False
+2345_audio11.wav,Jelaskan step by step cara booking flight ke jeddah secara online.,['id'],False
+2345_audio12.wav,How to prepare dokumen umroh dari Indonesia dengan benar?,['id'],False
+2345_audio13.wav,Tolong buat checklist persiapan umroh termasuk barang wajib dibawa.,[],False
+2345_audio14.wav,"Menurut kamu, belajar bahasa Arab itu susah gak untuk pemula?",['id'],False
+2345_audio15.wav,"Ah ya Anan, saya bingung mulai dari mana untuk Umrah.",['id'],False
+2348_audio01.wav,aku mau buk flight gadget dah minggu depan bisa bantu schedule,['id'],False
+2348_audio02.wav,Aku butuh travel umrah simple tapi include Madinah visit.,['id'],False
+2348_audio03.wav,can you help aku arrange transport dari jeddah ke madinah to morrow,"['id', 'en']",True
+2348_audio04.wav,Explain step by step cara apply visa Saudi dengan benar,['id'],False
+2348_audio05.wav,ya akhi uridu buk flight ila jiddah al usbu al qadim hal bisa bantu ajidah afdal skiajul wa rihlatan mubashirah,['id'],False
+2348_audio06.wav,uridu arrange transport menjerdah ilah madinah ghadan,[],False
+2348_audio07.wav,Bug flight ke Jeddah lalu lanjut ke Madinah. Schedule terbaik kapan?,['id'],False
+2348_audio12.wav,Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?,['id'],False
+2348_audio13.wav,Jelaskan step by step cara booking flight ke Jeddah secara online.,['id'],False
+2348_audio14.wav,How to prepare dokumen umroh dari Indonesia dengan benar,['id'],False
+2355_audio01.wav,"Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule.",['id'],False
+2355_audio02.wav,"Aku butuh travel umroh, simple, tapi include Madinah visit.",['id'],False
+2355_audio03.wav,Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2355_audio04.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2355_audio05.wav,"Ya akhi, huridu buk flaik ila jedah al-usbu'al qadim hal bisa bantu ajidah afdal skedul warih latan mubasirah",['id'],False
+2355_audio06.wav,uridu rens transport menjedah ila madinah gadan,[],False
+2355_audio07.wav,buk flag ke jeddah lalu lanjut ke madinah schedule terbaik kapan,['id'],False
+2355_audio10.wav,Apa perbedaan umrah dan haji secara detail dalam Islam?,['id'],False
+2355_audio13.wav,Jelaskan step by step cara booking flag ke jedah secara online.,['id'],False
+2355_audio17.wav,"Menurut kamu, belajar bahasa Arab itu susah nggak untuk pemula?",['id'],False
+2357_audio01.wav,Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?,['id'],False
+2357_audio02.wav,Aku butuh travel umroh simple tapi include Madinah visit.,['id'],False
+2357_audio03.wav,Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2357_audio04.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2357_audio05.wav,"Ya akhi, uridu bukflaik ila jeddah al-usbu' al-qadim hal bisa bantu ajidah afdol skejul warih latan mubasyiroh?",['id'],False
+2357_audio06.wav,uridu rej transport min jeddah ila madinah godan,[],False
+2357_audio07.wav,"Book flight ke Jeddah lalu lanjut ke Madinah, schedule terbaik kapan?",['id'],False
+2357_audio12.wav,Bagaimana proses visa Saudi untuk umroh dari Indonesia sekarang?,['id'],False
+2357_audio15.wav,Tolong buat checklist persiapan umroh termasuk barang wajib dibawa.,[],False
+2357_audio17.wav,"Menurut kamu, belajar bahasa Arab itu susah gak untuk pemula?",['id'],False
+2359_audio1.wav,Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?,['id'],False
+2359_audio12.wav,Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang,['id'],False
+2359_audio14.wav,How to prepare dokumen umrah dari Indonesia dengan benar,['id'],False
+2359_audio17.wav,Menurut kamu belajar bahasa Arab itu susah gak untuk pemula.,['id'],False
+2359_audio2.wav,Aku butuh travel umrah simple tapi include Madinah visit.,['id'],False
+2359_audio3.wav,Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2359_audio4.wav,Explain step by step cara apply visa Saudi dengan benar,['id'],False
+2359_audio5.wav,ya akhi uridu buk flaik ila jaddah al usbu al qadim hal bisa bantu ajidah afdal skedul warih latam mubassirah,['id'],False
+2359_audio6.wav,uridu arrange transport min jeddah ila madinah wadan,[],False
+2359_audio7.wav,Bookfly ke Jeddah lalu lanjut ke Madinah. Schedule terbaik kapan?,['id'],False
+2360_audio01.wav,Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?,['id'],False
+2360_audio02.wav,Aku butuh travel umrah simple tapi include Madinah visit.,['id'],False
+2360_audio03.wav,Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2360_audio04.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2360_audio05.wav,"Ya akhi, uridu bukflaik ila judah al-usbuqan al-qadim. Hal bisa bantu ajidah afdal skidul warihlatan mubasyurah.",['id'],False
+2360_audio06.wav,Uridu arrange transport min jeddah ila Madinah Ghadan.,[],False
+2360_audio07.wav,Book flight ke Jeddah lalu lanjut ke Madinah. Schedule terbaik kapan?,['id'],False
+2360_audio10.wav,Apa perbedaan umroh dan hajj secara detail dalam Islam?,['id'],False
+2360_audio11.wav,Kenapa fasting di Ramadan itu wajib bagi Muslim?,['id'],False
+2360_audio14.wav,How to prepare dokumen umroh dari Indonesia dengan benar,['id'],False
+2363_audio01.wav,Aku mau book flight ke jedah minggu depan. Bisa bantu schedule.,['id'],False
+2363_audio02.wav,"Aku butuh travel umrah simple, tapi include Madinah visit.",['id'],False
+2363_audio03.wav,Can you help? Aku arrange transport dari Jeddah ke Madinah tomorrow.,"['id', 'en']",True
+2363_audio04.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2363_audio05.wav,"Ya akhi, uridu book flight ila jaddah al-usbu al-qidam hal bisa bantu ajidah afdal skedul warihlatan mubasyirah.",['id'],False
+2363_audio06.wav,Uridu arrange transport min jiddah ila Madinah Ghadan.,[],False
+2363_audio07.wav,Book flag ke Jeddah lanjut ke Madinah. Schedule terbaik kapan?,['id'],False
+2363_audio10.wav,Apa perbedaan umroh dan haji secara detail dalam Islam?,['id'],False
+2363_audio11.wav,Kedapan fasting di Ramadan itu wajib bagi muslim.,['id'],False
+2363_audio14.wav,How to prepare dokumen umrah dari Indonesia dengan benar,['id'],False
+2364_audio02.wav,Aku butuh travel umroh simple tapi include Madinah visit.,['id'],False
+2364_audio03.wav,Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2364_audio04.wav,Explain step by step cara apply visa Saudi dengan benar,['id'],False
+2364_audio05.wav,"Ya akhi, huridu buk flaik ila jeddah al-usbu al-qadim. Hal bisa bantu ajidah afdal skedul wa rihlatan mubashiroh?",['id'],False
+2364_audio06.wav,Uridu arranged transport min Jeddah ila Madinah Ghadan.,[],False
+2364_audio12.wav,Bagaimana proses visa Saudi untuk umroh dari Indonesia sekarang?,['id'],False
+2364_audio13.wav,Jelaskan step by step cara booking flight ke Jeddah secara online.,['id'],False
+2364_audio14.wav,How to prepare dokumen umroh dari Indonesia dengan benar,['id'],False
+2364_audio17.wav,Menurut kamu belajar bahasa Arab itu susah gak untuk pemula?,['id'],False
+2366_audio01.wav,Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule.,['id'],False
+2366_audio02.wav,Aku butuh travel umroh simple tapi include Madinah Visit.,['id'],False
+2366_audio03.wav,Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2366_audio04.wav,Explain step by step cara apply visa Saudi dengan benar,['id'],False
+2366_audio05.wav,"Ya ahli, uridu buk flag ila jaddah al-usbu' al-qadim hal bisa bantu ajidah afda schedule warihlatan mubashiroh.",['id'],False
+2366_audio06.wav,Uridu Arrange Transport Menjadah Ilah Madinah Khadan,[],False
+2366_audio07.wav,Book flight ke Jeddah lalu lanjut ke Madinah. Schedule terbaik kapan?,['id'],False
+2366_audio11.wav,Kenapa fasting di Ramadan itu wajib bagi muslim?,['id'],False
+2366_audio13.wav,Jelaskan step by step cara booking flight gadget dah secara online.,[],False
+2366_audio15.wav,Tolong bawa checklist persiapan umroh termasuk barang wajib di bawah.,['id'],False
+2367_audio1.wav,Aku mau book flight ke jadda minggu depan. Bisa bantu schedule?,['id'],False
+2367_audio10.wav,Apa perbedaan umrah dan hajj secara detail dalam Islam?,['id'],False
+2367_audio13.wav,Jelaskan step by step cara booking flight kejeja secara online.,[],False
+2367_audio18.wav,I feel overwhelmed dengan persiapan umrah. Ada tips sederhana?,['id'],False
+2367_audio2.wav,"Aku butuh travel om, raw simple, tapi include Madinah visit.",['id'],False
+2367_audio3.wav,Can you help aku arrange transport dari Jeddah ke Bandinah to-morrow?,"['id', 'en']",True
+2367_audio4.wav,Explain step by step cara apply visa Saudi dengan benar,['id'],False
+2367_audio5.wav,Ya aghi huri dubuk flight ila jadda al-usbu al-qadim. Hal bisa bantu ajidda afdol skejul warih latan mubasirah?,['id'],False
+2367_audio6.wav,Uri du Range Transport min cedda ila madi nah kodan,[],False
+2367_audio7.wav,Buk fly ke Jeddah lalu lanjut ke Madinah. Schedule terbaik kapan?,['id'],False
+2369_audio1.wav,"Kalau mau book flight ke Jeddah minggu depan, bisa bantu schedule.",['id'],False
+2369_audio10.wav,Jelaskan step by step cara booking flight ke Jeddah secara online.,['id'],False
+2369_audio2.wav,Aku butuh travel umroh simple tapi include Madinah visit.,['id'],False
+2369_audio3.wav,Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2369_audio4.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2369_audio5.wav,"Ya akhir, uridu bukfait ila jeddah al-usbu al-qadim. Hal bisa bantu ajidah afdal skejul warih latan mubasirah.",['id'],False
+2369_audio6.wav,Uri du arrange transport min Jeddah ila Madinah Wadan.,[],False
+2369_audio7.wav,Book flight ke Jeddah lalu lanjut ke Madinah. Schedule terbaik kapan?,['id'],False
+2369_audio8.wav,Uridu schedule trip min Jeddah ila makkah Bukro Sabah.,[],False
+2369_audio9.wav,Bagaimana proses via Saudi untuk umroh dari Indonesia sekarang?,['id'],False
+2371_audio01.wav,Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?,['id'],False
+2371_audio02.wav,"Aku butuh travel umrah simple, tapi include Madinah visit.",['id'],False
+2371_audio03.wav,Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2371_audio04.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2371_audio06.wav,Uridu Range Transport Min Jeddah ila Madinah Gadan,[],False
+2371_audio07.wav,"Book flight ke Jeddah, lalu lanjut ke Madinah, schedule terbaik kapan?",['id'],False
+2371_audio12.wav,Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?,['id'],False
+2371_audio13.wav,Jelaskan step by step cara booking flight ke Jeddah secara online.,['id'],False
+2371_audio17.wav,"Menurut kamu, belajar bahasa Arab itu susah gak untuk pemula?",['id'],False
+2372_audio01.wav,"Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule.",['id'],False
+2372_audio02.wav,Aku butuh travel umrah simple tapi include Madinah visit.,['id'],False
+2372_audio03.wav,Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2372_audio04.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2372_audio05.wav,"Ya si, uridu bukflay ila jadah al-usbu al-qadim. Hal bisa bantu ajidah afdal skajul warih batan mubashiroh?",['id'],False
+2372_audio06.wav,Uridu arrange transport min jedah ila Madinah Khadan.,[],False
+2372_audio10.wav,Apa perbedaan umrah dan haji secara detail dalam Islam?,['id'],False
+2372_audio11.wav,Kenapa fasting di ramadhan itu wajib bagi muslim?,['id'],False
+2372_audio14.wav,How to prepare dokumen umrah dari Indonesia dengan benar.,['id'],False
+2372_audio15.wav,Tolong buat checklist persiapan omrah termasuk barang wajib di bawah.,['id'],False
+2374_audio01.wav,"Aku mau book flight ke jedah minggu depan, bisa bantu schedule.",['id'],False
+2374_audio02.wav,Aku butuh travel umrah simple tapi include Madinah visit.,['id'],False
+2374_audio03.wav,Can you help aku arrange transport dari Jeddah ke Madinah Tomorrow?,"['id', 'en']",True
+2374_audio04.wav,Explain step by step cara apply visa Saudi dengan benar,['id'],False
+2374_audio05.wav,"Ya akhi, kuridu bukflaik ilacerdah al-usbu' al-qadim. Hal bisa bantu ajedah afdal skejul warihlatan nubasyirah?",['id'],False
+2374_audio06.wav,Uridu uris transport menjedah ila Madinah Gadan.,[],False
+2374_audio11.wav,Kenapa fasting di ramadhan itu wajib bagi muslim?,['id'],False
+2374_audio13.wav,Jelaskan step-by-step cara booking flight ke Jeddah secara online.,['id'],False
+2374_audio15.wav,Tolong buat checklist persiapan umrah termasuk barang wajib dibawa.,[],False
+2374_audio17.wav,"Menurut kamu, belajar bahasa Arab itu susah nggak untuk pemula?",['id'],False
+2375_audio01.wav,"Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule?",['id'],False
+2375_audio02.wav,"Aku butuh travel umroh, simple tapi include Madinah visit.",['id'],False
+2375_audio03.wav,Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?,"['id', 'en']",True
+2375_audio04.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2375_audio05.wav,"Ya akhi, uri du buk fly ila jeddah al-usbu al-qadim hal bisa bantu ajidah afdol skejul warihlatan mubashiroh",['id'],False
+2375_audio08.wav,Uri do schedule trip dari Jeddah ke Makkah besok pagi.,"['id', 'en']",True
+2375_audio11.wav,Kenapa fasting di Ramadan itu wajib bagi muslim?,['id'],False
+2375_audio15.wav,Tolong buat checklist persiapan umroh termasuk barang wajib dibawa.,[],False
+2375_audio18.wav,I feel overwhelmed dengan persiapan umroh Ada tips sederhana,['id'],False
+2379_audio01.wav,Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?,['id'],False
+2379_audio02.wav,Aku butuh travel umrah simple tapi ikut Madinah fisik.,['id'],False
+2379_audio03.wav,Can you help aku arrange transport dari Jeddah ke Madinah to-morrow?,"['id', 'en']",True
+2379_audio05.wav,ya ahi uridu bukflai illa jeddah al usbu al qadim hal bisa bantu ajidah afdal skejul wahrilatan mubashirah,['id'],False
+2379_audio07.wav,"Bookfly kejedah lalu lanjut ke Madinah, schedule terbaik kapan?",['id'],False
+2379_audio12.wav,Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?,['id'],False
+2379_audio18.wav,I feel overwhelmed dengan persiapan umroh. Ada tips sederhana?,['id'],False
+2479_audio04.wav,Explain step by step cara apply visa Saudi dengan benar.,['id'],False
+2479_audio15.wav,Tolong buat checklist persiapan umrah termasuk barang wajib dibawa.,[],False

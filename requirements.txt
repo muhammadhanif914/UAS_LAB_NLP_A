@@ -1,0 +1,30 @@
+# Backend
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+
+# LLM
+google-genai
+
+# TTS
+coqui-tts
+# Setelah install, jalankan juga:
+# pip install transformers==5.0.0
+
+# Fonemisasi (untuk Indonesian-TTS)
+phonemizer
+# Pastikan espeak-ng terinstall:
+# Windows: https://github.com/espeak-ng/espeak-ng/releases
+
+# Audio
+soundfile
+numpy
+librosa
+
+# Frontend
+gradio
+
+# Evaluasi
+jiwer
+pandas
