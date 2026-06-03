@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # UAS_LAB_NLP_A
 =======
 # voice-cs-system
@@ -46,4 +46,4 @@ Files of interest
 - [app/tts.py](app/tts.py#L1-L1)
 
 If you'd like, I can now attempt to: (a) run a dry-check of environment variables in `.env`, (b) test-load the TTS model (no audio), or (c) prepare a small test script to exercise STT→LLM→TTS locally.
->>>>>>> eefcfc29 (Initial commit)
+
