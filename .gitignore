@@ -6,3 +6,9 @@ __pycache__/
 .gradio/
 log/
 UAS_LAB_NLP_A/
+data/
+output_tts/
+app/coqui_utils/*.pth
+app/coqui_utils/output.wav
+app/whisper.cpp/build/
+app/whisper.cpp/models/BIT22AC.tmp
