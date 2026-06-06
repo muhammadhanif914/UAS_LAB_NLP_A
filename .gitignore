@@ -5,3 +5,4 @@ __pycache__/
 .env
 .gradio/
 log/
+UAS_LAB_NLP_A/
